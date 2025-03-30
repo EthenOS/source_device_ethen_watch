@@ -1,0 +1,5 @@
+DEVICE_NAME="watch"
+MANUFACTURER="ethen"
+DEVICE_TYPE="watch"
+COMPILE_FLAGS="-O2 -Wall"
+LINK_FLAGS=""
