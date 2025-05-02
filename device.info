@@ -1,5 +1,6 @@
 DEVICE_NAME="watch"
 MANUFACTURER="ethen"
 DEVICE_TYPE="watch"
-COMPILE_FLAGS="-O2 -Wall"
-LINK_FLAGS=""
+
+hardware_layer="hardware/st"
+hardware_mcu="stm32wb09ke"
