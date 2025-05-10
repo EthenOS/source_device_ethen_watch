@@ -3,4 +3,4 @@ MANUFACTURER="ethen"
 DEVICE_TYPE="watch"
 
 hardware_layer="hardware/st"
-hardware_mcu="stm32wb09ke"
+hardware_mcu="stm32wb55cg"
